@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para saber mais sobre mim, me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/samuel-ramirez-duarte-2ab555156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
